@@ -1,2 +1,2 @@
 # Curso-Python
-Curso Pyhton e Automação
+Curso Pyhton e Automação (estudando para o trabalho).
